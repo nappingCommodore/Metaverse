@@ -10,7 +10,7 @@ function Ofc() {
   });
 
   return (
-      <a-entity id="ofc" position="0 10 0" scale="0.07 0.05 0.07" light="color: #AFA; intensity: 2; type: hemisphere;"></a-entity>
+      <a-entity id="ofc" position="-5 0 6" scale="5 3 5" light="color: #AFA; intensity: 2; type: hemisphere;"></a-entity>
   );
 }
 

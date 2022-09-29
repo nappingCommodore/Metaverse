@@ -10,7 +10,7 @@ function Pantry() {
   });
 
   return (
-      <a-entity id="pantry" position="-6 0.4 3" rotation="0 180 0" scale="0.006 0.01 0.009"></a-entity>
+      <a-entity id="pantry" position="-18 0.4 12" rotation="0 180 0" scale="0.006 0.01 0.009"></a-entity>
   );
 }
 

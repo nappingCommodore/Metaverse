@@ -10,7 +10,7 @@ function Logo() {
   });
 
   return (
-      <a-entity id="logo" position="1.4 7.7 -2" scale="0.5 0.5 0.5" rotation="0 180 0" light="color: #AFA; intensity: 1" material="color: red; opacity: 2;"></a-entity>
+      <a-entity id="logo" position="6 5 -4" scale="1 1 1" rotation="0 180 0" light="color: #AFA; intensity: 1" material="color: red; opacity: 2;"></a-entity>
   );
 }
 
